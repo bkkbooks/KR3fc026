@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc026/tls/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勾股義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc026.xml
+hash: sha256:26e4dc12e3c7ee7820eef3696a818e138938ad4073bed382cc896d0765fab141

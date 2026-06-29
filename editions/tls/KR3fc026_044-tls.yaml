@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc026/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 股三十六以減和得甲丙弦四十五論曰乙丁和冪內之戊己句冪也餘論同本篇十二題又法曰句自之得七百二十九以股弦和八十一爲法除之得九爲股弦較加股弦和得九十半之得四十五爲弦減較得三十六爲股此法與本篇第十題又法同論第十四題股弦較句弦較求句求股求弦法曰甲乙股甲丙弦較二乙丙句甲丙弦較九求句求股求弦以二較相乘得十八倍之得三十六爲實平方開之得六爲弦和較加句弦較九得甲乙股十五加股弦較二得乙丙句八以句弦較加句或股弦較加股得十七爲甲丙弦
+  hash: sha256:6c1ceba375397d3ab63e4a4a6cfbd64d88dcaf4a991817724e1ae4f76257541e
+metadata:
+  title: 勾股義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc026.xml
+hash: sha256:3380f1b511dca24a3ce0b7a3f4ad09516f235fbf51e3a9d68e5f2d562a9c7a3d

@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc026/tls/v1/markers/36
+seq: 36
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc026_tls_001-p18.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup15, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3fc026_tls_001-p18.s2}
+  - {type: line-break, offset: 14, content: '', id: KX_2_dup17, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fc026_tls_001-p18.s3}
+  - {type: line-break, offset: 28, content: '', id: KX_3_dup17, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3fc026_tls_001-p18.s4}
+  - {type: line-break, offset: 42, content: '', id: KX_4_dup17, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3fc026_tls_001-p18.s5}
+  - {type: line-break, offset: 56, content: '', id: KX_5_dup18, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR3fc026_tls_001-p18.s6}
+  - {type: line-break, offset: 76, content: '', id: KX_6_dup18, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg-start', offset: 96, content: '', id: KR3fc026_tls_001-p18.s7.1, seg_type: comm, member_ids: [KR3fc026_tls_001-p18.s7.1]}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR3fc026_tls_001-p18.s7.1}
+  - {type: line-break, offset: 96, content: '', id: KX_7_dup18, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: line-break, offset: 98, content: '', id: KR3fc026_tls_036-bkklb1}
+  - {type: 'tls:seg-end', offset: 100, content: '', id: KR3fc026_tls_001-p18.s7.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR3fc026_tls_001-p18.s7.2}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR3fc026_tls_001-p18.s8}
+  - {type: line-break, offset: 118, content: '', id: KX_8_dup17, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR3fc026_tls_001-p18.s9}
+  - {type: line-break, offset: 138, content: '', id: KX_9_dup17, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR3fc026_tls_001-p18.s11}
+  - {type: line-break, offset: 158, content: '', id: KX_11_dup17, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3fc026_tls_001-p18.s12}
+  - {type: line-break, offset: 172, content: '', id: KX_12_dup17, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 186, content: '', id: KR3fc026_tls_001-p18.s13}
+  - {type: line-break, offset: 186, content: '', id: KX_13_dup17, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3fc026_tls_001-p18.s14}
+  - {type: line-break, offset: 200, content: '', id: KX_14_dup17, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 205, content: '', id: KR3fc026_tls_001-p18.s15}
+  - {type: line-break, offset: 205, content: '', id: KX_15_dup17, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3fc026_tls_001-p18.s16}
+  - {type: line-break, offset: 219, content: '', id: KX_16_dup17, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3fc026_tls_001-p18.s17}
+  - {type: line-break, offset: 233, content: '', id: KX_17_dup17, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR3fc026_tls_001-p18.s18}
+  - {type: line-break, offset: 247, content: '', id: KX_18_dup17, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 251, content: '', id: KR3fc026_tls_001-p18.s19}
+  - {type: line-break, offset: 251, content: '', id: KX_19_dup17, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  back: []
+hash: sha256:6fc6664991c2cbb866de6bb7644c7c76c9d2c28e5bf3245510a0eb78f73e5836

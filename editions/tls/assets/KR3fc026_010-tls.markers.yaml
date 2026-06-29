@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc026/tls/v1/markers/10
+seq: 10
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc026_tls_001-p5.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup3, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3fc026_tls_001-p5.s2}
+  - {type: line-break, offset: 16, content: '', id: KX_2_dup5, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 22, content: '', id: KR3fc026_tls_001-p5.s3}
+  - {type: line-break, offset: 22, content: '', id: KX_3_dup5, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR3fc026_tls_001-p5.s4}
+  - {type: line-break, offset: 25, content: '', id: KX_4_dup5, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3fc026_tls_001-p5.s5}
+  - {type: line-break, offset: 29, content: '', id: KX_5_dup5, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR3fc026_tls_001-p5.s6}
+  - {type: line-break, offset: 49, content: '', id: KX_6_dup5, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR3fc026_tls_001-p5.s7}
+  - {type: line-break, offset: 65, content: '', id: KX_7_dup5, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3fc026_tls_001-p5.s8}
+  - {type: line-break, offset: 68, content: '', id: KX_8_dup4, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc026_tls_001-p5.s9}
+  - {type: line-break, offset: 72, content: '', id: KX_9_dup4, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR3fc026_tls_001-p5.s11}
+  - {type: line-break, offset: 92, content: '', id: KX_11_dup4, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR3fc026_tls_001-p5.s12.1}
+  - {type: line-break, offset: 108, content: '', id: KX_12_dup4, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg-start', offset: 120, content: '', id: KR3fc026_tls_001-p5.s12.2, seg_type: comm, member_ids: [KR3fc026_tls_001-p5.s12.2, KR3fc026_tls_001-p5.s13.1]}
+  - {type: 'tls:seg', offset: 120, content: '', id: KR3fc026_tls_001-p5.s12.2}
+  - {type: line-break, offset: 128, content: '', id: KR3fc026_tls_010-bkklb1}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR3fc026_tls_001-p5.s13.1}
+  - {type: line-break, offset: 136, content: '', id: KX_13_dup4, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg-end', offset: 137, content: '', id: KR3fc026_tls_001-p5.s13.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 137, content: '', id: KR3fc026_tls_001-p5.s14}
+  - {type: line-break, offset: 137, content: '', id: KX_14_dup4, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR3fc026_tls_001-p5.s15}
+  - {type: line-break, offset: 140, content: '', id: KX_15_dup4, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR3fc026_tls_001-p5.s16}
+  - {type: line-break, offset: 145, content: '', id: KX_16_dup4, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR3fc026_tls_001-p5.s17}
+  - {type: line-break, offset: 158, content: '', id: KX_17_dup4, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR3fc026_tls_001-p5.s18}
+  - {type: line-break, offset: 171, content: '', id: KX_18_dup4, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR3fc026_tls_001-p5.s19}
+  - {type: line-break, offset: 184, content: '', id: KX_19_dup4, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  back: []
+hash: sha256:123540827a4df74b3bf20ebf3c835f3eb6bee905a244d1d91c05ead15235cd4d
